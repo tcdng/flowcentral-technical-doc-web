@@ -1,6 +1,6 @@
 # Applet
 An applet is a small application within the flowCentral platform that is used to perform a specific task. You define and group one or more applets, each with its set of properties, to create an application. The properties you set for each applet determines how it is presented to the end-user, how it will behave and what it can be used for.<br>
-In all applet definitions, the type property is the primary determinant. For instance, an applet with its type property set to ‘Manage Entity List Applet’ will produce an end-user feature for managing a list of records in a table with an associated form for individual record operations - view, update and delete. Other properties affect additional visual presentation and functional behavior based on the applet type.
+In all applet definitions, the type property is the primary determinant. For instance, an applet with its type property set to ‘Manage Entity List Applet’ will produce an end-user feature for managing a list of records in a table with an associated form for individual record operations - view, update and delete. Other properties affect additional visual presentation and functional behavior based on the applet type.<b>
     Properties
         <table>
         <tr>
